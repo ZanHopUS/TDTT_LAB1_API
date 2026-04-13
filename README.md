@@ -107,4 +107,4 @@ TDTT_LAB1/
 ## 7. Video Demo
 Vui lòng xem video minh họa hệ thống tại liên kết dưới đây:
 
-👉 [Chèn link video của bạn tại đây - VD: Link Youtube/Google Drive]
+https://drive.google.com/file/d/1qhTLclDfpdgS3Sx6bBXtB8ZITEUyjkw3/preview
